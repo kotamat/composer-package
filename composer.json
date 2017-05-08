@@ -1,0 +1,16 @@
+{
+    "name": "kotamat/composer-package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "kotamat",
+            "email": "kota1861@gmail.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "Kotamat\\ComposerPackage\\": "src/"
+      }
+    },
+    "require": {}
+}
